@@ -2,6 +2,10 @@
 
 단축키 하나로 여는 **원형 메뉴**. 스크린샷, 글자 인식, 색상 추출, 클립보드 기록 같은 도구를 커서 위치에서 바로 꺼내 쓴다. 메뉴 막대에 상주하는 네이티브 macOS 앱(Swift/AppKit)이다.
 
+![원형 메뉴](docs/media/macb-radial.gif)
+
+▶ [소개 영상 보기 (43초)](docs/media/macb-promo.mp4)
+
 ## 설치
 
 macOS 14 이상, Apple 실리콘·Intel 맥 모두 된다.
