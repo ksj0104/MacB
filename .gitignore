@@ -1,0 +1,21 @@
+# Swift 빌드 산출물
+.build/
+.build-*/
+build/
+dist/
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# 편집기·도구 로컬 상태
+.idea/
+.vscode/
+.omc/
+.claude/settings.local.json
+*.swp
+
+# Python (PyCharm이 만든 기본 환경과 샘플 파일)
+.venv/
+__pycache__/
+main.py
